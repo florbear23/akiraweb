@@ -1,0 +1,13 @@
+
+1.lay-out :go to bootstrap 5 generetor and create a website using bootstrap 5 generetor
+
+2.check the picture if fit in website no straches
+
+3.get the img for each
+
+
+
+if website is complete upload to github to check testing lanching
+
+
+if goods pumunta kanang free hosting muna para mag host nang website
